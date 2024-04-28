@@ -1,1 +1,1 @@
-# blogcards
+# Responsive blogcards
